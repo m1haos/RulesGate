@@ -1,0 +1,23 @@
+name: RulesGate
+version: '${version}'
+main: com.mdevstudio.rulesgate.RulesGate
+api-version: '${apiVersion}'
+author: m1haos
+description: Server rules in a native dialog, accepted before joining the world
+
+permissions:
+  rulesgate.admin:
+    description: All admin commands
+    default: op
+    children:
+      rulesgate.command.reload: true
+      rulesgate.command.check: true
+  rulesgate.command.rules:
+    description: Read the rules with /rules
+    default: true
+  rulesgate.command.reload:
+    description: Reload settings, rules and messages
+    default: op
+  rulesgate.command.check:
+    description: See which rules version a player accepted and when
+    default: op

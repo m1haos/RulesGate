@@ -1,0 +1,12 @@
+prefix: "<#7FB3FF>RulesGate</#7FB3FF> <dark_gray>»</dark_gray>"
+
+reloaded: "<prefix> <#8BD17C>Settings, rules and messages reloaded.</#8BD17C>"
+reloaded-new-version: "<prefix> <#8BD17C>Reloaded. Rules version <white><version></white> was shown to <white><players></white> online players.</#8BD17C>"
+players-only: "<prefix> <#FF6B6B>Only players can open the rules.</#FF6B6B>"
+player-not-found: "<prefix> <#FF6B6B><white><player></white> has never played on this server.</#FF6B6B>"
+check-current: "<prefix> <gray><white><player></white> accepted the current rules (version <white><version></white>) on <white><date></white>.</gray>"
+check-outdated: "<prefix> <#F2C14E><white><player></white> accepted version <white><version></white> on <white><date></white>, the current one is <white><current></white>.</#F2C14E>"
+check-never: "<prefix> <#F2C14E><white><player></white> has not accepted the rules yet.</#F2C14E>"
+
+declined: "<#FF6B6B>You declined the server rules.</#FF6B6B>\n<gray>Join again if you change your mind."
+timed-out: "<#F2C14E>You didn't answer the rules in time.</#F2C14E>\n<gray>Join again to read them."

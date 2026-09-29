@@ -1,0 +1,15 @@
+# Shown before joining the world. MiniMessage formatting, one list entry per paragraph.
+# Players get the file matching their client language (ru.yml for Russian and so on), otherwise the one
+# set by "language" in config.yml. Add a file named after any language code to translate the rules.
+title: "<gold>Server rules"
+
+body:
+  - "<white>1.</white> Be respectful. No insults, threats or harassment."
+  - "<white>2.</white> No cheats, x-ray or other unfair client mods."
+  - "<white>3.</white> Don't grief or steal from other players' builds."
+  - "<white>4.</white> No advertising other servers."
+  - "<gray>Breaking the rules can end in a mute or a ban. Questions go to the staff in Discord."
+
+accept: "<green>I accept"
+decline: "<red>I decline"
+close: "Close"

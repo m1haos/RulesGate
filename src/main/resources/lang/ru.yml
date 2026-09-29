@@ -1,0 +1,12 @@
+prefix: "<#7FB3FF>RulesGate</#7FB3FF> <dark_gray>»</dark_gray>"
+
+reloaded: "<prefix> <#8BD17C>Настройки, правила и сообщения перезагружены.</#8BD17C>"
+reloaded-new-version: "<prefix> <#8BD17C>Перезагружено. Правила версии <white><version></white> показаны игрокам онлайн: <white><players></white>.</#8BD17C>"
+players-only: "<prefix> <#FF6B6B>Правила может открыть только игрок.</#FF6B6B>"
+player-not-found: "<prefix> <#FF6B6B>Игрок <white><player></white> ни разу не заходил на сервер.</#FF6B6B>"
+check-current: "<prefix> <gray>Игрок <white><player></white> принял текущие правила (версия <white><version></white>) <white><date></white>.</gray>"
+check-outdated: "<prefix> <#F2C14E>Игрок <white><player></white> принял версию <white><version></white> <white><date></white>, текущая — <white><current></white>.</#F2C14E>"
+check-never: "<prefix> <#F2C14E>Игрок <white><player></white> ещё не принимал правила.</#F2C14E>"
+
+declined: "<#FF6B6B>Вы не приняли правила сервера.</#FF6B6B>\n<gray>Зайдите снова, если передумаете."
+timed-out: "<#F2C14E>Вы не ответили на правила вовремя.</#F2C14E>\n<gray>Зайдите снова, чтобы прочитать их."

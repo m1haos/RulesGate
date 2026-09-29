@@ -1,0 +1,12 @@
+config-version: 1
+
+# Language of messages and the rules shown when a player's client language has no rules file.
+# Messages are in plugins/RulesGate/lang/, rules in plugins/RulesGate/rules/.
+language: en
+
+# Raise this number after changing the rules. Everyone who accepted an older version is asked again:
+# on their next join, or right away if they are online during /rules reload.
+rules-version: 1
+
+# Minutes a player has to answer before being disconnected.
+answer-timeout: 5
